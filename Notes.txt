@@ -1,0 +1,2 @@
+for icons : npm i react-icons
+visit : https://react-icons.github.io/react-icons/
